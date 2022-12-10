@@ -21,8 +21,8 @@ We have observed quite good results
 We note that we used early stopping to avoid overfitting for the n-grams model. The LSTM Model was only
 trained for 20 epochs because of the long time it takes, although the loss was still going down.
 
-<img src="Img/ngrams.png">
-<img src="Img/lstm.png">
+<img src="Img/cbow_lstm.png">
+
 
 
 ## Lab3--POS Tagging
